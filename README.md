@@ -6,4 +6,4 @@ chomd +x*
 
 cd ZAHIRUL-F-R
 
-python MRX.py
+python ZAHIRUL.py
